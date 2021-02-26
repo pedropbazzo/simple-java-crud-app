@@ -1,3 +1,4 @@
+
 # Java CRUD App
 Simple java business application with CRUD functional made for university course.
 
